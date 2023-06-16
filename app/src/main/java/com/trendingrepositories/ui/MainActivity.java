@@ -78,6 +78,7 @@ public class MainActivity extends BaseActivity implements MainIPresenter.MainIVi
         swipeRefresh = findViewById(R.id.swipe_refresh);
         linearLayout = findViewById(R.id.no_nw_ll);
         button = findViewById(R.id.try_again);
+        //nithi
         rvLl = findViewById(R.id.rv_ll);
         Toolbar toolbar = findViewById(R.id.toolbar);
         filename = "json_" + "trend";
